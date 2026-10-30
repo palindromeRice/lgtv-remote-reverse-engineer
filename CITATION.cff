@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "LG TV Remote for Mac"
+authors:
+  - family-names: Chawla
+    given-names: Naman
+repository-code: "https://github.com/palindromeRice/lgtv-remote-reverse-engineer"
+license: Apache-2.0
+preferred-citation:
+  type: article
+  title: "I Keep Losing My TV Remote, So I Turned My Mac Into One"
+  authors:
+    - family-names: Chawla
+      given-names: Naman
+  year: 2026
+  url: "https://palindromerice.github.io/writing/lgtv-remote/"
